@@ -1,6 +1,5 @@
 ## SimpleLCDSerial
 A little programm for arduino to display text sent over COM on Hitachi HD44780 based LCD.
-
 ## How to use
 Use COM port terminal to send ASCII characters. Type ASCII character 10 to go to the next line of LCD
 # Installation
